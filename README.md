@@ -17,6 +17,11 @@ Böylece oyun, kullanıcı "hayır" diyene kadar döngüsel olarak sürer.
 
 ---
 
+##📌 Bu proje Python öğrenme sürecimin bir parçasıdır. 
+Kod yapısını anlamak amacıyla ChatGPT desteğiyle oluşturulmuş örnek bir oyun kodudur. 
+Kodu çalıştırarak, değiştirerek ve kendi yorumlarımı ekleyerek öğrenmeye çalıştım.
+İleride geliştirmeyi ve kendi özelliklerimi eklemeyi hedefliyorum.
+
 ## 🚀 Nasıl Çalıştırılır 
 
 Python yüklü sistemlerde şu komut ile çalıştırabilirsiniz:
@@ -37,6 +42,12 @@ If the guess is wrong, the game asks:
 
 If the user says "yes", the game restarts with a new fruit and letter.
 The game continues in a loop until the users types "no" to quit.
+
+---
+
+##📌 This project is part of my Python learning journey.
+It was created with help from ChatGPT, to understand how basic game logic works.
+I rewrote and tested the code to learn better and plan to improve it with my own features later on.
 
 ---
 
